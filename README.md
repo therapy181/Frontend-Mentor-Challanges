@@ -1,4 +1,4 @@
-# Frontend-Mentor-Challanges
+# Frontend-Mentor-Challange 1
 A collection of challanges 
 
 Hello there, I am learning to code and this is my first challange ever. 
