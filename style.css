@@ -3,8 +3,8 @@ html {
 }
 
 .container {
-    width: 400px;
-	height: 600px;
+    width: 320px;
+	height: 500px;
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 20px;
 	position: absolute;
@@ -23,8 +23,8 @@ html {
 
 .qr-code {
     position: absolute;
-    top: -90px;    
-    transform: scale(0.63);
+    top: -130px;    
+    transform: scale(0.50);
     border-radius: 20px;
 }
 .text {    
@@ -39,6 +39,7 @@ html {
     
 }
 h1 {
+font-size: 22px;
 font-weight: 700;
 color: hsl(218, 44%, 22%)
 }
